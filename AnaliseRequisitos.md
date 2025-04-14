@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento descreve os requisitos funcionais e não funcionais do **Sistema de Gerenciamento de Estacionamento (SGE)**, visando atender às necessidades de administração eficiente de um estacionamento.
+Este documento descreve os requisitos funcionais e não funcionais do **Sistema de Gerenciamento de Estacionamento**, visando atender às necessidades de administração eficiente de um estacionamento.
 
 ## Objetivos
 
@@ -11,7 +11,7 @@ Este documento descreve os requisitos funcionais e não funcionais do **Sistema 
 - Manter um registro detalhado dos clientes.
 - Fornecer histórico completo das atividades de estacionamento.
 
-O **SGE** permitirá:
+O **Sistema de Gerenciamento** permitirá:
 
 - Cadastro e atualização de informações sobre as vagas de estacionamento.
 - Registro das entradas e saídas de veículos, associando-os aos clientes cadastrados.
@@ -63,7 +63,7 @@ O sistema será composto por módulos interligados que permitirão a gestão com
 - O sistema deve garantir a proteção dos dados dos clientes e das operações realizadas, implementando controles de acesso adequados.
 
 ### Disponibilidade
-- O sistema deve estar disponível para operação **24 horas por dia, 7 dias por semana**.
+- O sistema deve estar disponível para operação sempre que necessário.
 
 ### Escalabilidade
 - O sistema deve ser capaz de suportar um aumento no número de vagas e clientes sem degradação de desempenho.
